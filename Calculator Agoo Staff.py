@@ -51,6 +51,6 @@ while True:
         if next_calculation == "no":
           break
 
-    #Agoo Mstf V1
+    #Agoo Mstf V1 for MSTF Aplicants Only
       else:
         print("Invalid Input")
